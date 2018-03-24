@@ -17,7 +17,7 @@ Requirements
 
 * iOS 10+
 * Swift 4
-* CocoaPods
+* CocoaPods 
 
 
 Contribution
