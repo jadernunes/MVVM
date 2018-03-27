@@ -4,7 +4,7 @@ MVVM
 ![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg)
 [![Build Status](https://travis-ci.org/jadernunes/MVVM.svg?branch=master)](https://travis-ci.org/jadernunes/MVVM)
 
-This project is an iOS application developed using Swift. This project is for whom having trouble with learning how to build the MVVM architecture application.
+This project is an iOS application developed using Swift. This project is for those who are having trouble with learning how to build a MVVM architecture application.
 
 Features
 --------
